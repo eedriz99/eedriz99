@@ -9,7 +9,7 @@ _👋 Hi, I’m **AKINSOLA Idris Akinwunmi**_
 - **📫 How to reach me?**
 *Your can reach me on:*
    - ***LinkedIn*** @ [Akinsola Idris Akinwunmi](https://www.linkedin.com/in/akinsola-idris-29b35620a)
-   - ***G-Mail*** @ [akinsolaidris1999@gmail.com](mailto:akinsolaidris1999@gmail.com)
+   - ***E-Mail*** @ [akinsolaidris1999@gmail.com](mailto:akinsolaidris1999@gmail.com)
    - ***Twitter*** @ [Eedriz_](https://www.twitter.com/eedriz_)
 
 <!---

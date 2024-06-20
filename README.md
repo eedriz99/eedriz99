@@ -1,13 +1,13 @@
 - **Want to know my name?**
-_👋 Hi, I’m **AKINSOLA Idris Akinwunmi**_
-- **Do you really mean what i am interested in?**
-👀 I’m interested in Data Science, Machine learning and Web Development
-- **Like what i am learning currently right?**
-🌱 I’m currently learning React Js and Django
-- **Really thinking about collaboration?**
-💞️ I’m looking to collaborate on React Js, HTML, CSS basic JavaScript and python projects (Including Data science, AI and ML related)
+_👋 Hi, I’m **Idris Akinwunmi Akinsola**_
+- **Do you mean what I am interested in?**
+👀 I’m interested in Data Science, Machine learning, and Web Development
+- **Like what I am learning currently right?**
+🌱 I’m currently learning React JS and Django
+- **Thinking about collaboration?**
+💞️ I’m looking to collaborate on React Js, HTML, CSS basic JavaScript, and Python projects (Including Data science, AI, and ML related)
 - **📫 How to reach me?**
-*Your can reach me on:*
+*You can reach me at:*
    - ***LinkedIn*** @ [Akinsola Idris Akinwunmi](https://www.linkedin.com/in/akinsola-idris-29b35620a)
    - ***E-Mail*** @ [akinsolaidris1999@gmail.com](mailto:akinsolaidris1999@gmail.com)
    - ***Twitter*** @ [Eedriz_](https://www.twitter.com/eedriz_)
